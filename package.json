@@ -2,7 +2,7 @@
   "name": "monges-theorem",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://andrewdong.github.io/monges-theorem",
+  "homepage": "https://andrewlidong.github.io/monges-theorem",
   "type": "module",
   "scripts": {
     "dev": "vite",
