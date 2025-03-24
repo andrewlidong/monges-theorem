@@ -2,6 +2,8 @@
 
 A visualization of Monge's theorem using React and Canvas. Three bouncing circles with their external tangent lines, showing that the intersection points always lie on a straight line.
 
+[Live Demo](https://andrewlidong.xyz/mongestheorem)
+
 ## Setup
 
 ```bash
